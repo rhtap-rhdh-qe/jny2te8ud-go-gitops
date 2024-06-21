@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jny2te8ud-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jny2te8ud-go
